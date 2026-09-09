@@ -1,0 +1,18 @@
+JOUR 2 — FRONTEND MASTERY
+Thème
+
+HTML avancé : liens, images, listes, tableaux et formulaires
+
+Horaire : 08h30 – 12h00
+
+Objectifs de la séance
+
+À la fin de la journée, l’apprenant doit pouvoir :
+
+créer plusieurs pages HTML propres ;
+utiliser correctement les liens ;
+insérer des images ;
+créer des listes ;
+créer un tableau ;
+créer un formulaire HTML fonctionnel visuellement ;
+organiser une page avec header, nav, main, section, footer.
